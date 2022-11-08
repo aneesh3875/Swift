@@ -21,6 +21,7 @@ var c = x + y
 var d = x - y
 var e = x * y
 var g = x % y
+var h = x + y
 
 //Compound Assignment Operators
 var i = 3
